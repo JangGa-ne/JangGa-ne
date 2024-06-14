@@ -1,6 +1,9 @@
 ### Hi there, I'm JEHYUN JANG 👋
 #### iOS 개발자 / 서버 개발자 / 앱 디자이너
 
+[![Gist Embed](https://gist.githubusercontent.com/johndoe/abc123/raw/README.md)](https://gist.github.com/johndoe/abc123)
+[![Gist Embed](https://gist.github.com/JangGa-ne/7fce8f156c08d3201ad880ac99554a6e/gistfile1.txt)](https://gist.github.com/JangGa-ne/7fce8f156c08d3201ad880ac99554a6e)
+
 🛠️ Stacks
 
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=Firebase&logoColor=white"/>
