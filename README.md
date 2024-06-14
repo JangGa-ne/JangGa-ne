@@ -1,8 +1,7 @@
 ### Hi there, I'm JEHYUN JANG 👋
 #### iOS 개발자 / 서버 개발자 / 앱 디자이너
 
-[![Gist Embed](https://gist.githubusercontent.com/johndoe/abc123/raw/README.md)](https://gist.github.com/johndoe/abc123)
-[![Gist Embed](https://gist.github.com/JangGa-ne/7fce8f156c08d3201ad880ac99554a6e/gistfile1.txt)](https://gist.github.com/JangGa-ne/7fce8f156c08d3201ad880ac99554a6e)
+[![Gist Embed](https://gist.github.com/JangGa-ne/7fce8f156c08d3201ad880ac99554a6e/README.md)](https://gist.github.com/JangGa-ne/7fce8f156c08d3201ad880ac99554a6e)
 
 🛠️ Stacks
 
